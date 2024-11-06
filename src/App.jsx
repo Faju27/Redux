@@ -1,5 +1,5 @@
 import React from 'react';
-import Redux from './Pages/Redux';
+// import Redux from './Pages/Redux';
 import TodoRedux from './Pages/TodoRedux';
 import { Toaster } from "react-hot-toast";
 
